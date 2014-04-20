@@ -21,3 +21,4 @@ variables-ct*
 .eunit
 crash.log*
 *.so
+*.o
