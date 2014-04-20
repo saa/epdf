@@ -1,0 +1,9 @@
+{application, epdf,
+ [
+  {description, "Erlang bindings for libwkhtmltox"},
+  {vsn, "0.1"},
+  {applications, [
+                  kernel,
+                  stdlib
+                 ]}
+ ]}.

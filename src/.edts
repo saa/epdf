@@ -1,0 +1,2 @@
+:lib-dirs '("apps" "deps")
+:app-include-dirs '("include")
